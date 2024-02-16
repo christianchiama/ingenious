@@ -57,7 +57,7 @@ labels: 'bug'
 - Link to your project :
 
 <!---
-❗️❗️ Also, please consider donating (https://opencollective.com/ingenious-594) ❗️❗️
+❗️❗️ Also, please consider donating (https://opencollective.com/ingenious-funding) ❗️❗️
 
 Donations will ensure the following:
 

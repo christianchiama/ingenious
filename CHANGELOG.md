@@ -109,7 +109,7 @@ For full change list, see https://github.com/christianchiama/ingenious/pull/2021
 - migrate from greenkeeper to [renovate](https://renovatebot.com)
 - added issue template
 - use `babel-preset-env` to target current electron version
-- add [opencollective](https://opencollective.com/ingenious-594) banner message display in postinstall script (help support ERB 🙏)
+- add [opencollective](https://opencollective.com/ingenious-funding) banner message display in postinstall script (help support ERB 🙏)
 - fix failing ci issues
 
 # 0.16.0 (2018.10.3)
